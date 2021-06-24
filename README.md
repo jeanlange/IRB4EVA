@@ -1,0 +1,1 @@
+Jean, Regina, and Sean participated in the 2021 Gauntlet of Code challenge. Here are the files from the 4 problems they solved.
